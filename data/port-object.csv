@@ -1,0 +1,6 @@
+name;protocol;port;type
+portHTTPS-MLPT;TCP;443;ProtocolPortObject
+portSMTP-MLPT;TCP;25;ProtocolPortObject
+portHTTP-MLPT;TCP;80;ProtocolPortObject
+portIMAP-MLPT;TCP;143;ProtocolPortObject
+portSIP-MLPT;UDP;5060-5066;ProtocolPortObject

@@ -1,0 +1,9 @@
+name;description;type;value
+Remedy-1;Remedy-1;Network;10.204.86.224/27 
+HPSE;HPSE;Network;10.254.9.0/24 
+CIM-DRC;CIM-DRC;Network;10.254.9.0/24 
+MCAFEE-01;MCAFEE001;Network;10.204.52.176/28 
+MCAFEE-02;MCAFEE-02;Network;10.253.52.176/28
+E-StatementSaving-4;E-Statement Saving-4;Network;10.204.4.160/27 
+E-StatementSaving-5;E-Statement Saving-5;Network;10.204.4.160/27 
+VLAN0709;VLAN0709;Network;10.254.9.0/24
